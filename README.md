@@ -1,2 +1,2 @@
-# Failure-Modes-Recognition-of-UHPC-Strengthened-RC-Beams
+# Failure-Modes-Recognition-of-UHPC-RC
 Date and Code
